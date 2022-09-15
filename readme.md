@@ -1,4 +1,4 @@
 Ng Chak Yui
 20694182
 
-![Screenshot](git history.png)
+![Screenshot](git%20history.png)
